@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomBarAndDockingController.cs](./CS/CustomBarAndDockingController.cs) (VB: [CustomBarAndDockingController.vb](./VB/CustomBarAndDockingController.vb))
+* [CustomSkinBarManagerPaintStyle.cs](./CS/CustomSkinBarManagerPaintStyle.cs) (VB: [CustomSkinBarManagerPaintStyle.vb](./VB/CustomSkinBarManagerPaintStyle.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [MyBarCheckButtonLinkViewInfo.cs](./CS/MyBarCheckButtonLinkViewInfo.cs) (VB: [MyBarCheckButtonLinkViewInfo.vb](./VB/MyBarCheckButtonLinkViewInfo.vb))
+* [MySkinPrimitivesPainter.cs](./CS/MySkinPrimitivesPainter.cs) (VB: [MySkinPrimitivesPainter.vb](./VB/MySkinPrimitivesPainter.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # BarManager - How to show both check mark and glyph in BarCheckItem
 
 
